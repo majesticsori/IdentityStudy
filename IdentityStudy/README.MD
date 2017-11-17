@@ -26,3 +26,5 @@
 
 7. dbo.AspNetUserTokens
 - 외부 로그인 Tokens 인증 방식 
+
+8. Git 연동
